@@ -1,9 +1,9 @@
 # Applied-Machine-Learning-Projects
 ### Project Titles
 
-- **QM7** in quantom mechanics category
-- **BBBP** in physiology category
-- **Tox21** in physiology category
+- **[QM7](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Projects/Projects-Fall-2021/Data/qm7.csv)** in quantom mechanics category
+- **[BBBP](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Projects/Projects-Fall-2021/Data/bbbp.csv)** in physiology category
+- **[Tox21](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Projects/Projects-Fall-2021/Data/tox21.csv)** in physiology category
 ---
 ### Supervisor
 Professor: **[Dr. Hossein Hajiabolhassan](https://github.com/hhaji)**
