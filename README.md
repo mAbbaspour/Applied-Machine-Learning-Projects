@@ -8,7 +8,7 @@
 Professor: **[Dr. Hossein Hajiabolhassan](https://github.com/hhaji)**
 
 Special thanks to: **[Dr. Zahra Taheri](https://github.com/zahta)**  for providing the data
-### Group members
+### our Group members
 | | |
 | ----------- | ----------- |
 | [Fateme Akbari](https://github.com/f-akbari) | [Sana Aria](https://github.com/sanaaria) |
