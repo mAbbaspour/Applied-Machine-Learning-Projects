@@ -2,7 +2,7 @@
 ### Project Titles
 
 - **[QM7](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Projects/Projects-Fall-2021/Data/qm7.csv)** in quantom mechanics category
-- **[code](https://github.com/mAbbaspour/Applied-Machine-Learning-Projects/tree/main/Bbbp)**
+- [code](https://github.com/mAbbaspour/Applied-Machine-Learning-Projects/tree/main/Bbbp)
 - **[BBBP](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Projects/Projects-Fall-2021/Data/bbbp.csv)** in physiology category
 - **[Tox21](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Projects/Projects-Fall-2021/Data/tox21.csv)** in physiology category
 ### Supervisor
